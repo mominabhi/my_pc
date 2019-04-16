@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BestDietChart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learn_php" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learn_php/loginAndRegistration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Online_Shopping_Management_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amar_blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cineplex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laravel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/online_house_rent_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/restaurantManagementSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/school_management_system/SMS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/student_management" vcs="Git" />
+  </component>
+</project>
